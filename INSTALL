@@ -1,0 +1,4 @@
+apt-get install python3-pip
+pip3.5 install --upgrade pip
+pip3.5 install mysql-connector==2.1.4
+
